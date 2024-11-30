@@ -1,0 +1,187 @@
+body{
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p{
+    margin: 0;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+a:hover{
+    text-decoration: none;
+}
+/*********************************header start*************************************/
+.navbar{
+    padding: 15px 0;
+    background-color: #fff;
+}
+.navbar-brand{
+    margin-left: 21px;
+}
+.navbar-nav{
+    margin-left: 15px;
+}
+.nav-link{
+    color: #0a0e17;
+    font-size: 15px;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #0a0e17;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    border-bottom: 2px solid #e84a56;
+}
+.nav-item .nav-link{
+    color: #0a0e17;
+    font-size: 15px;
+
+}
+.icon{
+    margin-left: 600px;
+}
+.search{
+    margin-right: 50px;
+}
+.man{
+    margin-right: 50px;
+}
+.cart{
+    margin-right: 50px;
+}
+.btn1{
+    padding: 10px 15px;
+    background-color: #e84a56;
+    color: #fff;
+    font-size: 15px;
+}
+.btn1:hover{
+    background-color: #0a0e17;
+    color: #fff;
+}
+/* .menu{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    display: none;
+}
+.navbar-nav{
+    position: relative;
+    
+}
+.navbar-nav li:hover .menu{
+    display: block;
+}
+.menu li a{
+   color: #e84a56;
+
+}
+.sub-menu1, .sub-menu2, .sub-menu3 {
+    background-color: #fff;
+}
+.sub-menu1 li, .sub-menu2 li, .sub-menu3 li{
+    padding-bottom: 8px;
+    padding-right: 10px;
+}
+.sub-menu1 li a, .sub-menu2 li a, .sub-menu3 li a{
+    color: #0a0e17; */
+/*********************************header end*************************************/
+/*********************************banner start*************************************/
+.carousel slide{
+    padding: 150px 0;
+  
+}
+.carousel-caption{
+    margin-bottom: 295px;
+    margin-left: -800px;
+  
+}
+.carousel-caption h1{
+color: #000;
+font-weight: 500;
+font-size: 42px;
+font-family: 'Alegreya', serif;
+padding-bottom: 20px;
+}
+.carousel-caption p{
+    color: #000;
+    font-size: 18px;
+    margin-left: 163px;
+   
+    }
+    .btn2{
+        padding: 10px 15px;
+        background-color: #e84a56;
+        color: #fff;
+        font-size: 15px;
+        margin-top: 34px;
+            margin-left: -320px;
+    }
+    .btn2:hover{
+        background-color: #0a0e17;
+        color: #fff;
+    }
+    .fa {
+        margin-left: 10px;
+    }
+    .banner .carousel-indicators li {
+       background-color: #e84a56;
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+    }
+    .side1{
+        margin-left: 16px;
+    }
+/*********************************banner end*************************************/
+/*********************************section 1 start*************************************/
+.contact{
+    padding: 40px 0;
+    background-color: #1d3557;
+}
+.contact h2{
+    font-size: 22px;
+    font-weight: 600;
+    text-transform: uppercase;
+        font-family: "Poppins",sans-serif;
+    color: #fff;
+    position: relative;
+}
+.btn3{
+    padding: 10px 15px;
+    background-color: #e84a56;
+    color: #fff;
+    font-size: 15px;
+    position: absolute;
+    margin-top: -33px;
+margin-left: 943px;
+    border: none;
+    text-transform: capitalize;
+}
+.btn3:hover{
+    background-color: #0a0e17;
+    color: #fff;
+}
+
+/*********************************section 1 end*************************************/
+.box{
+    padding: 40px 0;
+    display: no-wrap;
+}
+.box-wrap{
+    padding: 20px 30px;
+    background-color: #e84a56;
+}
